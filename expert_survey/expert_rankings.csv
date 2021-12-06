@@ -1,0 +1,89 @@
+baseCity,selectedCities,reRankings,cityFamiliarity
+London,Paris|Frankfurt|Amsterdam|Milan|Berlin|Munich|Madrid|Moscow|Barcelona|Prague,4,Familiar
+Mumbai,Delhi|Casablanca|Buenos Aires|Rio De Janeiro|Caracas|Taipei|Manila|Bogota|Cairo|Athens,3,Neutral
+London,New York City|Paris|Singapore|Amsterdam|Sydney|Toronto|Los Angeles|Hong Kong|Frankfurt|Barcelona|Milan,1,Familiar
+Miami,Los Angeles|San Diego|Orlando|Honolulu|Cancun|Las Vegas|Naples|Barcelona|Marrakesh|Memphis,1,Familiar
+Miami,Los Angeles|San Diego|Orlando|New Orleans|Honolulu|Las Vegas|Cancun|Casablanca|Memphis|Madrid,5,Familiar
+Berlin,Vienna|Paris|Prague|Rome|London|Madrid|Budapest|Moscow|Bucharest|Frankfurt,7,Familiar
+Osaka,Guangzhou|Krakow|Sao Paulo|Frankfurt|Barcelona|Lisbon|Genoa|Dusseldorf|Boston|Edinburgh,1,Neutral
+Barcelona,San Francisco|Vancouver|Sydney|New York City|Lisbon|Venice|Cartagena|Nice|Melbourne|Fortaleza,4,Very familiar
+Seville,Cordoba|Granada|Bilbao|Madrid|Palma de Mallorca|Barcelona|Naples|Genoa|Bologna|Milan|Marrakesh,4,Familiar
+Bangkok,Ho Chi Minh City|Singapore|Jakarta|Denpasar|Seoul|Manila|Phnom Penh|Hong Kong|Taipei|Mumbai,3,Very familiar
+Moscow,Saint Petersburg|Sao Paulo|New York City|Warsaw|Sofia|Budapest|Bangkok|Bucharest|Los Angeles|London,8,Familiar
+Seville,Granada|Cordoba|Barcelona|Marrakesh|Madrid|Naples|Florence|Verona|Palma de Mallorca|Rome,1,Familiar
+Vancouver,Boston|Calgary|Quebec City|Victoria|Montreal|Seattle|Chicago|Toronto|Munich|Washington DC,6,Familiar
+Singapore,Hong Kong|Seoul|Shenzhen|Taipei|New York City|Sydney|Los Angeles|Dubai|Washington DC|Seattle|Osaka,4,Neutral
+Paris,London|Berlin|Vienna|Amsterdam|Madrid|Moscow|Rome|Munich|Frankfurt|Hamburg|Marseille|New York City,4,Familiar
+Hamburg,Amsterdam|London|Stockholm|Copenhagen|Berlin|Paris|Dusseldorf|Helsinki|Brussels|Munich,2,Familiar
+Stockholm,Oslo|Gothenburg|Helsinki|Copenhagen|Hamburg|Amsterdam|Glasgow|Berlin|Vancouver|Seattle,1,Neutral
+Vancouver,San Francisco|Seattle|Barcelona|Granada|Copenhagen|New Orleans|Florence|San Diego|Toronto|Hamburg,2,Familiar
+New York City,Chicago|Washington DC|Sao Paulo|London|Miami|Toronto|Singapore|Mexico City|Paris|Berlin,8,Familiar
+Nice,Marseille|Barcelona|Palma de Mallorca|Florence|Tunis|Naples|Bilbao|Lisbon|Madrid|Innsbruck,5,Familiar
+Munich,Salzburg|Vienna|Cologne|Graz|Milan|Edinburgh|Dusseldorf|Hamburg|Amsterdam|Brussels,3,Familiar
+Madrid,Paris|Rome|Seville|Barcelona|Milan|Warsaw|Budapest|Palma de Mallorca|Prague|London,6,Familiar
+London,Paris|Berlin|Barcelona|Amsterdam|Rome|Lisbon|Dublin|Madrid|Vienna|Frankfurt,6,Very familiar
+Singapore,Hong Kong|Taipei|Dubai|Jakarta|New York City|Ho Chi Minh City|Seoul|Chicago|Boston|Sydney,2,Familiar
+Berlin,Paris|London|Madrid|Barcelona|Hamburg|Munich|Vienna|Rome|Milan|Krakow,6,Familiar
+Munich,Vienna|Milan|Dusseldorf|Paris|Boston|Luxembourg City|Berlin|Cologne|Vancouver|Dubai,10,Very familiar
+Miami,Dubai|Las Vegas|Los Angeles|Toronto|New York City|Cologne|Boston|Hamburg|Vancouver|Brussels,12,Familiar
+Seville,Granada|Cordoba|Madrid|Barcelona|Lisbon|Verona|Marrakesh|Rome|Florence|Budapest|Salzburg,11,Very familiar
+Chicago,New York City|Washington DC|Los Angeles|San Francisco|Boston|San Diego|Minneapolis|Toronto|New Orleans|Vancouver,2,Very familiar
+Stockholm,Copenhagen|Helsinki|Oslo|Gothenburg|Hamburg|Vienna|Amsterdam|Berlin|Dublin|London,2,Very familiar
+Oslo,Gothenburg|Copenhagen|Stockholm|Helsinki|Vilnius|Amsterdam|Frankfurt|Munich|Dusseldorf|Glasgow,2,Very familiar
+Stockholm,Copenhagen|Oslo|Gothenburg|Vilnius|Vienna|Helsinki|Dusseldorf|Amsterdam|Berlin|Montreal,6,Very familiar
+Brussels,Berlin|Los Angeles|Naples|Montreal|Washington DC|Marseille|Paris|London|Buenos Aires|Bogota,6,Very familiar
+Stockholm,Glasgow|Medellin|Dublin|Copenhagen|Budapest|Edinburgh|Madrid|Seoul|Oslo|Innsbruck,2,Familiar
+Nice,Bern|Gothenburg|Heidelberg|Nantes|Luxembourg City|Frankfurt|Cologne|Cardiff|Dusseldorf|Helsinki,3,Neutral
+Amsterdam,San Francisco|Accra|Edinburgh|Dusseldorf|Phuket City|Copenhagen|Dublin|Barcelona|Athens|Cartagena,1,Familiar
+New York City,Mexico City|Sao Paulo|London|Jakarta|Singapore|Melbourne|Brussels|Hong Kong|Moscow|Pittsburgh,4,Neutral
+Rome,Buenos Aires|Quito|Saint Petersburg|Budapest|Florence|Barcelona|Paris|Athens|Lima|Brussels,3,Very familiar
+Vienna,Salzburg|Prague|Budapest|Munich|Ljubljana|Innsbruck|Krakow|Warsaw|Milan|Turin|Nuremberg|Florence|Rome|Bucharest,12,Very familiar
+Vienna,Prague|Budapest|Munich|Salzburg|Nuremberg|Cologne|Innsbruck|Amsterdam|Warsaw|Lisbon|London|Venice|Verona,1,Very familiar
+Singapore,Montreal|Osaka|Sydney|Seoul|Amsterdam|Orlando|New York City|Seattle|Quebec City|Hong Kong|Edinburgh|London,7,Familiar
+Singapore,Hong Kong|Seoul|Osaka|Ho Chi Minh City|Dubai|Sydney|Bangkok|Melbourne|Manila|Busan,3,Familiar
+Mumbai,Hong Kong|Manila|Jakarta|Delhi|Ho Chi Minh City|Melbourne|Jerusalem|Bangkok|Phnom Penh|Accra,2,Very familiar
+New York City,Singapore|London|Berlin|Toronto|Sydney|Paris|Seattle|Chicago|San Francisco|Bangkok,4,Familiar
+Berlin,Copenhagen|Hamburg|Amsterdam|Paris|Brussels|Munich|Vienna|London|Frankfurt|Rome,1,Familiar
+Hong Kong,Taipei|Guangzhou|Seoul|Kyoto|Ho Chi Minh City|Manila|Shenzhen|Delhi|Bangkok|Phnom Penh|Okinawa,3,Familiar
+Barcelona,Lisbon|Bilbao|Madrid|Genoa|Athens|Boston|Bologna|Sofia|Verona|Venice,6,Very familiar
+Barcelona,London|Turin|Berlin|Genoa|Milan|Paris|Naples|Florence|Vancouver|Miami,7,Familiar
+New York City,Boston|Chicago|London|Miami|Toronto|Washington DC|Vancouver|San Francisco|Singapore|Montreal,8,Very familiar
+Madrid,Seville|Buenos Aires|Milan|Granada|Palma de Mallorca|Lisbon|Barcelona|Amsterdam|Dusseldorf|Athens,8,Very familiar
+San Diego,Los Angeles|Miami|San Jose|Seattle|San Francisco|Vancouver|Honolulu|Nice|Cartagena|Fortaleza,6,Familiar
+Hamburg,Copenhagen|Riga|Stockholm|Vilnius|Amsterdam|Oslo|Helsinki|Gothenburg|Frankfurt|Tallinn,5,Very familiar
+Osaka,Kobe|Kyoto|Hiroshima|Taipei|Busan|Guangzhou|Seoul|Shenzhen|Hong Kong|Sao Paulo,7,Familiar
+New York City,Brussels|Pittsburgh|Melbourne|San Diego|Madrid|London|Barcelona|Toronto|Calgary|San Francisco,3,Familiar
+Saint Petersburg,Paris|Rome|Venice|Moscow|Budapest|Prague|Florence|Barcelona|Amsterdam|Bologna,2,Familiar
+Vancouver,Seattle|Montreal|Edinburgh|Toronto|Calgary|Victoria|Chicago|San Francisco|New Orleans|Dublin,1,Familiar
+Bangkok,Phnom Penh|Ho Chi Minh City|Phuket City|Jakarta|Denpasar|Manila|Bogota|Caracas|Cartagena|Medellin|Rio De Janeiro|Sao Paulo|Asuncion,3,Familiar
+Hamburg,Stockholm|Amsterdam|Toronto|Glasgow|Helsinki|Edinburgh|Lisbon|Copenhagen|Oslo|Vienna,2,Familiar
+Vienna,Innsbruck|Prague|Salzburg|Budapest|Bucharest|Munich|Nuremberg|Brussels|Leipzig|Paris,2,Familiar
+Nice,Milan|Florence|Nantes|Athens|Genoa|Naples|Marseille|Turin|Verona|Venice,1,Familiar
+London,Dublin|Edinburgh|Glasgow|Hamburg|Frankfurt|New York City|Hong Kong|Singapore|Los Angeles|Chicago,1,Familiar
+San Diego,Miami|Los Angeles|San Jose|San Francisco|Orlando|Pittsburgh|Seattle|Cancun|Fortaleza|Nice,1,Familiar
+Amsterdam,Copenhagen|Stockholm|Rotterdam|Gothenburg|Hamburg|Venice|Cologne|Dublin|Dusseldorf|Nuremberg,4,Familiar
+Saint Petersburg,Brussels|London|Paris|Amsterdam|Vienna|Lisbon|Madrid|Krakow|Prague|Moscow,5,Very familiar
+Rome,Florence|Athens|Bologna|Lisbon|Madrid|Prague|Venice|Milan|Turin|Genoa,5,Familiar
+Miami,Los Angeles|New Orleans|Orlando|Las Vegas|Marseille|San Diego|Charleston|Palma de Mallorca|Nice|Lisbon,3,Very familiar
+Nice,Marseille|Genoa|Milan|Palma de Mallorca|Miami|Los Angeles|Barcelona|Bilbao|Lisbon|Moscow,3,Familiar
+Miami,Orlando|Los Angeles|New Orleans|Las Vegas|Nice|Marseille|Palma de Mallorca|Bilbao|Chicago|Lisbon,4,Very familiar
+Copenhagen,Lisbon|Amsterdam|Brussels|Venice|London|Florence|Vienna|Barcelona|Berlin|Seville,8,Very familiar
+Brussels,Copenhagen|Saint Petersburg|Venice|Paris|London|Lisbon|Prague|Santa Fe|Krakow|Florence,4,Very familiar
+Moscow,New York City|Brussels|London|Paris|Berlin|Boston|Madrid|Vienna|Saint Petersburg|Sofia,7,Familiar
+Madrid,Paris|Milan|Brussels|Lisbon|Berlin|Rome|Barcelona|Seville|Budapest|Bucharest,5,Neutral
+Chicago,Minneapolis|New York City|Frankfurt|Rotterdam|Washington DC|Hamburg|Berlin|Leipzig|Moscow|Nice,3,Familiar
+Rome,Naples|Cordoba|Granada|Athens|Florence|Bologna|Jerusalem|Madrid|Milan|Genoa,5,Very familiar
+New York City,Montreal|London|San Francisco|Chicago|Berlin|Madrid|Athens|Melbourne|Calgary|Pittsburgh,4,Familiar
+London,New York City|Paris|Amsterdam|Madrid|Toronto|Brussels|Edinburgh|Sydney|Berlin|Barcelona|Rome,6,Familiar
+Barcelona,Venice|Lisbon|Madrid|Seville|Nice|Bologna|Milan|Marseille|London|Rome,4,Familiar
+Madrid,Rome|Barcelona|Vienna|London|Berlin|Paris|Milan|Prague|Copenhagen|Amsterdam,2,Familiar
+Paris,London|Vienna|Budapest|Milan|Nantes|Rome|Prague|Berlin|Florence|Seville,4,Familiar
+Hong Kong,Singapore|Kyoto|Shenzhen|Taipei|Guangzhou|Seoul|Sydney|Los Angeles|New York City|Manila,4,Familiar
+Madrid,Seville|Rome|Athens|Berlin|Granada|Munich|Milan|Brussels|Nantes|Prague,7,Familiar
+Munich,Frankfurt|Brussels|Heidelberg|Budapest|Hamburg|Barcelona|Vienna|Prague|Berlin|Rome,7,Neutral
+Paris,Brussels|Rome|London|Milan|Berlin|Madrid|Frankfurt|Prague|Athens|Munich,10,Familiar
+Nice,Marseille|Lisbon|Venice|Nantes|Barcelona|Florence|Bangkok|Phuket City|Prague|Paris|Rome|Luxembourg City,9,Very familiar
+Oslo,Stockholm|Hamburg|Helsinki|Copenhagen|Amsterdam|Gothenburg|Glasgow|Rotterdam|Edinburgh|Seattle|Reykjavik|London,4,Familiar
+London,Hong Kong|Los Angeles|Melbourne|Osaka|New York City|Singapore|Rome|Shenzhen|Guangzhou|Bangkok,7,Familiar
+Saint Petersburg,Moscow|Prague|Cologne|Wroclaw|Brussels|Berlin|Genoa|Gothenburg|Frankfurt|Milan,7,Familiar
+Copenhagen,Stockholm|Oslo|Amsterdam|Helsinki|Hamburg|Tallinn|Dublin|Vancouver|London|Vilnius|Edinburgh|Berlin,9,Neutral

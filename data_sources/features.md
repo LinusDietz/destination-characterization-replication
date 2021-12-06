@@ -1,0 +1,448 @@
+Features of Characterization Methods
+
+- FSQ-TOP (see https://developer.foursquare.com/docs/build-with-foursquare/categories/)
+  - arts_entertainment
+  - food
+  - nightlife
+  - outdoors_recreation
+
+- FSQ-2nd (see https://developer.foursquare.com/docs/build-with-foursquare/categories/)
+  - ATM
+  - Adult Boutique
+  - Afghan Restaurant
+  - African Restaurant
+  - Airport
+  - American Restaurant
+  - Amphitheater
+  - Antique Shop
+  - Aquarium
+  - Arcade
+  - Art Gallery
+  - Arts & Crafts Store
+  - Arts & Entertainment
+  - Asian Restaurant
+  - Athletics & Sports
+  - Australian Restaurant
+  - Austrian Restaurant
+  - BBQ Joint
+  - Bagel Shop
+  - Baggage Locker
+  - Bakery
+  - Bar
+  - Bath House
+  - Bathing Area
+  - Batik Shop
+  - Bay
+  - Beach
+  - Belgian Restaurant
+  - Bike Rental / Bike Share
+  - Bike Shop
+  - Bike Trail
+  - Bistro
+  - Board Shop
+  - Boat Rental
+  - Boat or Ferry
+  - Bookstore
+  - Border Crossing
+  - Botanical Garden
+  - Bowling Alley
+  - Breakfast Spot
+  - Brewery
+  - Bridal Shop
+  - Bridge
+  - Bubble Tea Shop
+  - Buffet
+  - Burger Joint
+  - Bus Station
+  - Bus Stop
+  - Cable Car
+  - Cafeteria
+  - Café
+  - Cajun / Creole Restaurant
+  - Camera Store
+  - Campground
+  - Canal
+  - Canal Lock
+  - Candy Store
+  - Caribbean Restaurant
+  - Casino
+  - Castle
+  - Caucasian Restaurant
+  - Cave
+  - Chocolate Shop
+  - Circus
+  - Clothing Store
+  - Coffee Shop
+  - Comedy Club
+  - Comfort Food Restaurant
+  - Comic Shop
+  - Concert Hall
+  - Convenience Store
+  - Cosmetics Shop
+  - Costume Shop
+  - Country Dance Club
+  - Creperie
+  - Cruise
+  - Currency Exchange
+  - Czech Restaurant
+  - Deli / Bodega
+  - Design Studio
+  - Dessert Shop
+  - Diner
+  - Disc Golf
+  - Dive Shop
+  - Dive Spot
+  - Dog Run
+  - Donut Shop
+  - Drugstore
+  - Dumpling Restaurant
+  - Dutch Restaurant
+  - Duty-free Shop
+  - EV Charging Station
+  - Eastern European Restaurant
+  - Electronics Store
+  - English Restaurant
+  - Entertainment Service
+  - Event Service
+  - Exhibit
+  - Falafel Restaurant
+  - Farm
+  - Fast Food Restaurant
+  - Field
+  - Film Studio
+  - Fireworks Store
+  - Fish & Chips Shop
+  - Fishing Spot
+  - Fishing Store
+  - Flea Market
+  - Floating Market
+  - Flower Shop
+  - Fondue Restaurant
+  - Food
+  - Food & Drink Shop
+  - Food Court
+  - Food Stand
+  - Food Truck
+  - Forest
+  - Fountain
+  - French Restaurant
+  - Fried Chicken Joint
+  - Friterie
+  - Fruit & Vegetable Store
+  - Gaming Cafe
+  - Garden
+  - Garden Center
+  - Gas Station
+  - Gastropub
+  - General Entertainment
+  - General Travel
+  - German Restaurant
+  - Gift Shop
+  - Gluten-free Restaurant
+  - Go Kart Track
+  - Greek Restaurant
+  - Gun Range
+  - Halal Restaurant
+  - Harbor / Marina
+  - Hardware Store
+  - Hawaiian Restaurant
+  - Health & Beauty Service
+  - Heliport
+  - Herbs & Spices Store
+  - Hill
+  - Historic Site
+  - Hobby Shop
+  - Hot Dog Joint
+  - Hot Spring
+  - Hotel
+  - Hungarian Restaurant
+  - Hunting Supply
+  - Indian Restaurant
+  - Indoor Play Area
+  - Internet Cafe
+  - Intersection
+  - Irish Pub
+  - Island
+  - Italian Restaurant
+  - Jewelry Store
+  - Jewish Restaurant
+  - Juice Bar
+  - Karaoke Box
+  - Kebab Restaurant
+  - Knitting Store
+  - Lake
+  - Laser Tag
+  - Latin American Restaurant
+  - Light Rail Station
+  - Lighthouse
+  - Lottery Retailer
+  - Lounge
+  - Luggage Store
+  - Mac & Cheese Joint
+  - Marijuana Dispensary
+  - Market
+  - Massage Studio
+  - Medical Supply Store
+  - Mediterranean Restaurant
+  - Memorial Site
+  - Metro Station
+  - Mexican Restaurant
+  - Middle Eastern Restaurant
+  - Mini Golf
+  - Miscellaneous Shop
+  - Mobility Store
+  - Modern European Restaurant
+  - Molecular Gastronomy Restaurant
+  - Motorcycle Shop
+  - Motorsports Shop
+  - Mountain
+  - Mountain Hut
+  - Movie Theater
+  - Moving Target
+  - Museum
+  - Music Store
+  - Music Venue
+  - Nail Salon
+  - National Park
+  - Nature Preserve
+  - Newsstand
+  - Night Market
+  - Nightclub
+  - Nightlife Spot
+  - Optical Shop
+  - Other Great Outdoors
+  - Other Nightlife
+  - Outdoor Supply Store
+  - Outdoors & Recreation
+  - Outlet Mall
+  - Outlet Store
+  - Pachinko Parlor
+  - Pakistani Restaurant
+  - Palace
+  - Park
+  - Pawn Shop
+  - Pedestrian Plaza
+  - Performing Arts Venue
+  - Perfume Shop
+  - Pet Café
+  - Pet Service
+  - Pet Store
+  - Pharmacy
+  - Photography Lab
+  - Photography Studio
+  - Pier
+  - Piercing Parlor
+  - Pizza Place
+  - Playground
+  - Plaza
+  - Polish Restaurant
+  - Pool
+  - Pool Hall
+  - Pop-Up Shop
+  - Port
+  - Portuguese Restaurant
+  - Poutine Place
+  - Print Shop
+  - Public Art
+  - Public Bathroom
+  - RV Park
+  - Racecourse
+  - Racetrack
+  - Rafting
+  - Record Shop
+  - Recording Studio
+  - Recreation Center
+  - Rental Car Location
+  - Rental Service
+  - Reservoir
+  - Rest Area
+  - Restaurant
+  - River
+  - Road
+  - Rock Climbing Spot
+  - Roller Rink
+  - Russian Restaurant
+  - Salad Place
+  - Salon / Barbershop
+  - Salsa Club
+  - Samba School
+  - Sandwich Place
+  - Sauna / Steam Room
+  - Scandinavian Restaurant
+  - Scenic Lookout
+  - Scottish Restaurant
+  - Sculpture Garden
+  - Seafood Restaurant
+  - Shop & Service
+  - Shopping Mall
+  - Shopping Plaza
+  - Skate Shop
+  - Ski Area
+  - Ski Shop
+  - Skydiving Drop Zone
+  - Slovak Restaurant
+  - Smoke Shop
+  - Smoothie Shop
+  - Snack Place
+  - Soup Place
+  - Southern / Soul Food Restaurant
+  - Souvenir Shop
+  - Spa
+  - Spanish Restaurant
+  - Sporting Goods Shop
+  - Sri Lankan Restaurant
+  - Stables
+  - Stadium
+  - State / Provincial Park
+  - States & Municipalities
+  - Stationery Store
+  - Steakhouse
+  - Storage Facility
+  - Strip Club
+  - Summer Camp
+  - Supplement Shop
+  - Swiss Restaurant
+  - Tailor Shop
+  - Tanning Salon
+  - Tattoo Parlor
+  - Taxi
+  - Taxi Stand
+  - Tea Room
+  - Theme Park
+  - Theme Restaurant
+  - Thrift / Vintage Store
+  - Toll Booth
+  - Toll Plaza
+  - Tour Provider
+  - Tourist Information Center
+  - Toy / Game Store
+  - Trail
+  - Train Station
+  - Tram Station
+  - Transportation Service
+  - Travel & Transport
+  - Travel Agency
+  - Travel Lounge
+  - Tree
+  - Truck Stop
+  - Tunnel
+  - Turkish Restaurant
+  - Ukrainian Restaurant
+  - Used Bookstore
+  - Vape Store
+  - Vegetarian / Vegan Restaurant
+  - Video Game Store
+  - Video Store
+  - Vineyard
+  - Volcano
+  - Warehouse Store
+  - Watch Shop
+  - Water Park
+  - Waterfall
+  - Waterfront
+  - Well
+  - Windmill
+  - Wings Joint
+  - Zoo
+
+- OSM-TOP (see: https://wiki.openstreetmap.org/wiki/Map_Features)
+  - tourism
+  - leisure
+  - historic
+  - natural
+  - sport
+  - venue_count
+  - area
+
+- OSM-2nd (see: https://wiki.openstreetmap.org/wiki/Map_Features)
+  - leisure:leisure
+  - natural:water_related
+  - tourism:tourism
+  - amenity:sustenance
+  - building:religious
+  - building:sports
+  - natural:vegetation_or_surface_related
+  - sport:sport
+  - shop:art/music/hobbies
+  - shop:outdoors_and_sport/vehicles
+  - historic:historic
+  - natural:landform_related
+  - amenity:entertainment/arts_and_culture
+  - waterway:natural_watercourses
+  - venue_count
+  - area
+
+- Nomadlist (see e.g., https://nomadlist.com/munich)
+  - nomad_score
+  - cost
+  - fun
+  - life_quality
+  - air_quality
+  - healthcare
+  - happiness
+  - nightlife
+
+- Webologen Tourism Facts
+  - nachtleben
+  - wellness
+  - shopping
+  - natur_landschaft
+  - ortsbild_flair
+  - kultur
+  - sightseeing
+  - entertainment
+  - mobilitaet
+  - preisniveau
+  - unterkuenfte
+  - gastronomie
+  - strand_baden
+  - golf
+  - tauchen
+  - kite_windsurfen
+  - wandern
+  - radfahren
+  - reiten
+  - wintersport_r
+  - sport
+  - familien
+  - ruhe
+  - wellenreiten
+  - segeln
+  - gays
+  - mountainbike
+  - meer
+  - gebirge
+  - see
+  - insel
+  - sandstrand
+  - metropole
+  - wald
+  - fluss
+  - wueste
+  - altstadt
+  - kiesstrand
+  - sand_kiesstrand
+  - huegel
+  - sumpf
+  - vulkan
+  - fjord
+  - flachabfallender_sandstrand
+  - strandpromenade
+  - weinbau
+  - heide
+  - kurort
+  - wintersport_a
+
+
+- Seven Factor Model
+  - sun&chill-out
+  - knowledge&travel
+  - independence&history
+  - culture&indulgence
+  - social&sports
+  - action&fun
+  - nature&recreation
+
+- Geographic Location
+  - Latitude
+  - Longitude

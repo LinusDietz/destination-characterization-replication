@@ -1,0 +1,141 @@
+city,display_name,latitude,longitude,survey
+Munich,"Munich, Germany",48.133333,11.566667,TRUE
+Vienna,"Vienna, Austria",48.208176,16.373819,TRUE
+Milan,"Milan, Italy",45.464203,9.189982,FALSE
+Barcelona,"Barcelona, Spain",41.385063,2.173404,TRUE
+New York City,"New York City, NY, USA",40.712776,-74.005974,TRUE
+Lisbon,"Lisbon, Portugal",38.722252,-9.139337,FALSE
+Berlin,"Berlin, Germany",52.520008,13.404954,TRUE
+Amsterdam,"Amsterdam, Netherlands",52.370216,4.895168,TRUE
+London,"London, England",51.507351,-0.127758,TRUE
+Paris,"Paris, France",48.856613,2.352222,TRUE
+Moscow,"Moscow, Russia",55.755825,37.617298,TRUE
+Los Angeles,"Los Angeles, CA, USA",34.052235,-118.243683,TRUE
+Rome,"Rome, Italy",41.902782,12.496365,TRUE
+Prague,"Prague, Czech Republik",50.075539,14.4378,FALSE
+Cairo,"Cairo, Egypt",30.04442,31.235712,FALSE
+Florence,"Florence, Italy",43.769562,11.255814,FALSE
+Sydney,"Sydney, Australia",-33.86882,151.20929,TRUE
+Venice,"Venice, Italy",45.440845,12.315515,FALSE
+Frankfurt,"Frankfurt, Germany",50.110924,8.682127,FALSE
+Stockholm,"Stockholm, Sweden",59.329323,18.068581,TRUE
+Dubai,"Dubai, United Arab Emirates",25.204849,55.270782,FALSE
+Washington DC,"Washington DC, USA",38.907192,-77.036873,TRUE
+Las Vegas,"Las Vegas, NV, USA",36.169941,-115.139832,TRUE
+San Francisco,"San Francisco, CA, USA",37.774929,-122.419418,TRUE
+Hong Kong,Hong Kong,22.396427,114.109497,TRUE
+Bangkok,"Bangkok, Thailand",13.756331,100.501762,TRUE
+Singapore,Singapore,1.352083,103.819839,TRUE
+Toronto,"Toronto, ON, Canada",43.653225,-79.383186,FALSE
+Athens,"Athens, Greece",37.98381,23.727539,FALSE
+Seoul,"Seoul, South Korea",37.566536,126.977966,TRUE
+Vancouver,"Vancouver, BC, Canada",49.28273,-123.120735,TRUE
+Rio De Janeiro,"Rio De Janeiro, Brazil",-22.906847,-43.172897,TRUE
+Montreal,"Montreal, QC, Canada",45.50169,-73.567253,FALSE
+Dublin,"Dublin, Ireland",53.349804,-6.26031,FALSE
+Budapest,"Budapest, Hungary",47.497913,19.040236,FALSE
+Chicago,"Chicago, IL, USA",41.878113,-87.629799,TRUE
+Miami,"Miami, FL, USA",25.761681,-80.191788,TRUE
+Taipei,"Taipei, Taiwan",25.032969,121.565414,FALSE
+Lima,"Lima, Peru",-12.046373,-77.042755,FALSE
+Sofia,"Sofia, Bulgaria",42.697708,23.321867,FALSE
+Orlando,"Orlando, FL, USA",28.538336,-81.379234,FALSE
+Madrid,"Madrid, Spain",40.416775,-3.70379,TRUE
+Warsaw,"Warsaw, Poland",52.232222,21.008333,FALSE
+Delhi,"Delhi, India",28.6517178,77.2219388,FALSE
+Mexico City,"Mexico City, Mexico",19.4326009,-99.1333416,TRUE
+Marseille,"Marseille, France",43.2964,5.37,FALSE
+Heidelberg,"Heidelberg, Germany",49.4093582,8.694724,FALSE
+Quebec City,"Quebec City, QC, Canada",46.816667,-71.216667,FALSE
+Boston,"Boston, MT, USA",42.3602534,-71.0582912,TRUE
+Calgary,"Calgary, AL, Canada",51.02532675,-114.049868485806,FALSE
+Quito,"Quito, Ecuador",-0.2201641,-78.5123274,FALSE
+Nuremberg,"Nuremberg, Germany",49.453872,11.077298,FALSE
+Tunis,"Tunis, Tunisia",36.800108,10.184794,FALSE
+Lagos,"Lagos, Nigeria",6.4550575,3.3941795,FALSE
+Casablanca,"Casablanca, Morocco",33.5675527,-7.61875660682273,FALSE
+Nairobi,"Nairobi, Kenya",-1.2832533,36.8172449,FALSE
+Marrakesh,"Marrakesh, Morocco",31.6258257,-7.9891608,FALSE
+Medellin,"Medellin, Colombia",6.2443382,-75.573553,FALSE
+Buenos Aires,"Buenos Aires, Argentinia",-34.6075616,-58.437076,TRUE
+Cartagena,"Cartagena, Colombia",37.6267868,-1.0006184,FALSE
+Bogota,"Bogota, Colombia",4.59808,-74.0760439,FALSE
+Santiago,"Santiago, Chile",-33.4377968,-70.6504451,FALSE
+Kampala,"Kampala, Uganda",0.3177137,32.5813539,FALSE
+Accra,"Accra, Ghana",5.5600141,-0.2057437,FALSE
+Palma de Mallorca,"Palma de Mallorca, Spain",39.5695818,2.6500745,FALSE
+Puerto Vallarta,"Puerto Vallarta, Mexico",20.69820775,-105.181524169965,FALSE
+Asuncion,"Asuncion, Paraguay",-25.2800459,-57.6343814,FALSE
+Montevideo,"Montevideo, Uruguay",-34.9059039,-56.1913569,FALSE
+Caracas,"Caracas, Venezuela",10.506098,-66.9146017,FALSE
+Charleston,"Charleston, SC, USA",32.7876012,-79.9402728,FALSE
+Seattle,"Seattle, WA, USA",47.6038321,-122.3300624,TRUE
+Innsbruck,"Innsbruck, Austria",47.26951525,11.3971372,FALSE
+Bern,"Bern, Switzerland",46.9482713,7.4514512,FALSE
+Naples,"Naples, Italy",40.8359336,14.2487826,FALSE
+Kyoto,"Kyoto, Japan",35.021041,135.7556075,TRUE
+Osaka,"Osaka, Japan",34.6937569,135.5014539,TRUE
+Verona,"Verona, Italy",45.4384958,10.9924122,FALSE
+Salzburg,"Salzburg, Austria",47.7981346,13.0464806,FALSE
+Copenhagen,"Copenhagen, Denmark",55.6867243,12.5700724,TRUE
+Hamburg,"Hamburg, Germany",53.550341,10.000654,TRUE
+Nice,"Nice, France",43.7009358,7.2683912,TRUE
+Seville,"Seville, Spain",37.3886303,-5.9953403,TRUE
+Turin,"Turin, Italy",45.0677551,7.6824892,FALSE
+Brussels,"Brussels, Belgium",50.8465573,4.351697,TRUE
+Melbourne,"Melbourne, Australia",-37.8142176,144.9631608,TRUE
+Santa Fe,"Santa Fe, NM, USA",35.6869996,-105.9377997,FALSE
+Denpasar,"Denpasar, Indonesia",-8.6524973,115.2191175,FALSE
+Ho Chi Minh City,"Ho Chi Minh City, Vietnam",10.6497452,106.761979373444,FALSE
+Jerusalem,"Jerusalem, Israel",31.778345,35.2250786,TRUE
+Shenzhen,"Shenzhen, China",22.5445697,114.0545346,FALSE
+Jakarta,"Jakarta, Indonesia",-6.1753942,106.827183,TRUE
+Fortaleza,"Fortaleza, Brazil",-3.7304512,-38.5217989,FALSE
+Genoa,"Genoa, Italy",44.40726,8.9338624,FALSE
+Oslo,"Oslo, Norway",59.9133301,10.7389701,TRUE
+Saint Petersburg,"Saint Petersburg, Russia",59.938732,30.316229,TRUE
+Cologne,"Cologne, Germany",50.938361,6.959974,FALSE
+Gothenburg,"Gothenburg, Sweden",57.7072326,11.9670171,FALSE
+York,"York, England",53.9590555,-1.0815361,FALSE
+Tel Aviv,"Tel Aviv, Israel",32.0804808,34.7805274,FALSE
+Mumbai,"Mumbai, India",18.9387711,72.8353355,TRUE
+Memphis,"Memphis, TN, USA",35.1490215,-90.0516285,FALSE
+Minneapolis,"Minneapolis, MN, USA",44.9706705,-93.268217735811,FALSE
+Pittsburgh,"Pittsburgh, PA, USA",40.4416941,-79.9900861,FALSE
+Edinburgh,"Edinburgh, Scotland",55.9521476,-3.1889908,FALSE
+Krakow,"Krakow, Poland",50.0619474,19.9368564,FALSE
+Helsinki,"Helsinki, Finland",60.1674086,24.9425683,TRUE
+Glasgow,"Glasgow, Scotland",55.8611389,-4.2501672,FALSE
+Nantes,"Nantes, France",47.2186371,-1.5541362,FALSE
+Bucharest,"Bucharest, Romania",44.4361414,26.1027202,FALSE
+Cardiff,"Cardiff, Wales",51.4816546,-3.1791934,FALSE
+Reykjavik,"Reykjavik, Iceland",64.24450355,-21.7692635721513,TRUE
+Phuket City,"Phuket City, Thailand",7.9366015,98.3529292,FALSE
+Manila,"Manila, Philippines",14.5906216,120.9799696,TRUE
+Wroclaw,"Wroclaw, Poland",51.1089776,17.0326689,FALSE
+Bilbao,"Bilbao, Spain",43.2630051,-2.9349915,FALSE
+Riga,"Riga, Latvia",56.9493977,24.1051846,FALSE
+Rotterdam,"Rotterdam, Netherlands",51.9228958,4.4631727,FALSE
+Granada,"Granada, Spain",37.183054,-3.6021928,FALSE
+Ljubljana,"Ljubljana, Slovenia",46.0498146,14.5067824,FALSE
+Luxembourg City,Luxembourg City,49.6112768,6.129799,FALSE
+San Diego,"San Diego, CA, USA",32.7174209,-117.1627714,TRUE
+Cancun,"Cancun, Mexico",21.1617854,-86.8510468,FALSE
+Kobe,"Kobe, Japan",34.6932379,135.1943764,FALSE
+Okinawa,"Okinawa, Japan",26.338393,127.806341,FALSE
+Phnom Penh,"Phnom Penh, Cambodia",11.568271,104.9224426,FALSE
+Sao Paulo,"Sao Paulo, Brazil",-23.5506507,-46.6333824,TRUE
+Honolulu,"Honolulu, HI, USA",21.304547,-157.8556764,TRUE
+Guangzhou,"Guangzhou, China",23.1301964,113.2592945,FALSE
+New Orleans,"New Orleans, LA, USA",29.9499323,-90.0701156,TRUE
+Tallinn,"Tallinn, Estonia",59.4372155,24.7453688,FALSE
+Vilnius,"Vilnius, Lithuania",54.6870458,25.2829111,FALSE
+Hiroshima,"Hiroshima, Japan",34.3916058,132.4518156,TRUE
+Cordoba,"Cordoba, Spain",37.8845813,-4.7760138,FALSE
+Graz,"Graz, Austria",47.0702563,15.4385716,FALSE
+Leipzig,"Leipzig, Germany",51.3406321,12.3747329,FALSE
+Dusseldorf,"Dusseldorf, Germany",51.2254018,6.7763137,FALSE
+San Jose,"San Jose, CA, USA",37.3361905,-121.8905833,FALSE
+Bologna,"Bologna, Italy",44.4936714,11.3430347,FALSE
+Victoria,"Victoria, BC, Canada",48.428611,-123.365556,FALSE
+Busan,"Busan, South Korea",35.166667,129.066667,FALSE
